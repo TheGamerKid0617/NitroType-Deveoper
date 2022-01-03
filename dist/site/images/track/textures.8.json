@@ -28,7 +28,7 @@
 	"pivot": {"x":0.5,"y":0.5}
 },
 "dashboard.png":
-{
+{ 
 	"frame": {"x":2,"y":252,"w":864,"h":171},
 	"rotated": false,
 	"trimmed": false,
